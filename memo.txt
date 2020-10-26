@@ -6,3 +6,5 @@
 5. android, kotlin
 6.git
 7.git복습
+8.ios 공부하기
+9. mac os 공뷰하기
